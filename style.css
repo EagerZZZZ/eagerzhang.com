@@ -1,0 +1,286 @@
+@font-face {
+    font-family: font_en_regular;
+    src: url(./fonts/Neue\ Haas\ GroteskTXPro-55Rg.ttf);
+ }
+
+ @font-face {
+    font-family: font_en_bold;
+    src: url(./fonts/Neue\ Haas\ GroteskTXPro-65Md.ttf);
+ }
+
+ @font-face {
+    font-family: font_en_gothic;
+    src: url(./fonts/FetteKanzleiBQ.otf);
+ }
+
+
+
+body{
+    background-color:#eaeaea;
+    overflow-x: hidden;
+   
+ }
+
+.intro_top{
+
+    z-index: 100;
+  
+    font-family: font_en_regular;
+    text-transform: uppercase;
+    color: #292929;
+    width: 92%;
+    position: fixed;
+    grid-template-columns: 30% 30% 5% 35% ;
+    display: grid;
+    top: 10px;
+    left: 20px;
+    padding-right: 5px;
+    font-size: 2.3em;
+    line-height: 1em;
+    column-gap: 0.5em;
+
+    
+
+   
+ 
+   
+    
+}
+
+
+
+
+.intro_bottom{
+    z-index: 3000;
+
+    font-family: font_en_regular;
+    text-decoration-line: underline;
+    color: #292929;
+    width: 92%;
+    position: fixed;
+    grid-template-columns: 25% 25% 25% 25%;
+    display: grid;
+    bottom:10px;
+    left: 20px;
+    font-size: 1.0em;
+    line-height: 1.3em;
+    column-gap: 1em;
+    padding-bottom: 1em;
+    
+
+}
+
+.intro_content_bottom{
+    color: #292929;
+}
+
+.middle_text{
+  
+    width: 92%;
+    position: fixed;
+    top:470px;
+    grid-template-columns: 43% 14% 43%;
+    display: grid;
+    font-size: 0.9em;
+    line-height: 1.2em;
+    column-gap: 1em;
+    left: 18px;
+  
+}
+
+.eager_title{
+  
+    font-family: font_en_gothic;
+    font-size: 2em;
+    -ms-transform: rotate(270deg); /* IE 9*/
+    transform: rotate(270deg);
+    transform-origin: left top 0; 
+    display: none;
+   
+}
+
+
+.award_title{
+    width: 60%;
+    font-family: font_en_regular;
+  -ms-transform: rotate(270deg); /* IE 9 */
+    transform: rotate(270deg);
+    transform-origin: left top 0; 
+    text-decoration-line: underline;
+    white-space: nowrap;
+
+}
+.award_content{
+    width: 60%;
+    font-family: font_en_regular;
+ padding-top: -10px;
+}
+
+
+
+.image_pool{
+    overflow-x: hidden;
+    position: relative;
+    width: 90%;
+    z-index: 2000;
+    margin: 6%;
+    display:grid;
+    grid-template-columns: 33.3% 33.3% 33.3% ;
+    
+   
+    
+}
+
+.pool_image{
+    overflow-x: hidden;
+    position: relative;
+    z-index: 500;
+    padding-bottom:100px;
+    display: block;
+    filter: blur(20px);
+    transition: 0.2s;
+    max-width: 500px;
+    
+    
+    
+}
+
+.pool_image_hidden{
+    
+display: none;
+    
+}
+.back_button{
+    text-decoration-line: underline; 
+    cursor: pointer; 
+    color: black; 
+    z-index: 6000;
+    font-size: 2.3em;
+    padding-bottom: 4em;
+}
+
+@media only screen and (max-width: 1200px){
+
+    
+    .intro_top{
+   
+        width: 90%;
+        
+        
+        
+    }
+    
+    .intro_bottom{
+    
+        width: 90%;
+        
+    
+    }
+
+
+ }
+
+
+ @media only screen and (max-width: 900px){
+    .intro_top{
+        font-size: 1.8em;
+      
+        
+        
+    }
+
+.back_button{
+    font-size:1.8em;
+}
+
+    .pool_image{
+        width: 250px;
+    }
+    
+
+ }
+
+
+@media only screen and (max-width: 800px){
+
+  
+
+    
+    .intro_top{
+   
+        width: 87%;
+        
+        
+        
+    }
+    
+    .intro_bottom{
+    
+        width: 87%;
+        
+    
+    }
+
+
+  
+
+ }
+
+
+
+@media only screen and (max-width: 650px){
+
+    
+    .intro_top{
+        font-size: 1.3em;
+        grid-template-columns: 50% 50%;
+        width: 90%;
+       
+        
+        
+    }
+
+    .intro_content_top_3{
+        grid-template-columns: 2/3;
+     }
+     
+     .intro_content_top_4{
+        grid-template-columns: 2/3;
+      }
+      
+    
+    .intro_bottom{
+    
+        width: 90%;
+        
+    
+    }
+
+    .intro_bottom{
+        grid-template-columns: 100%;
+      
+        
+    
+    }
+
+    .middle_text{
+        display:none;
+    }
+
+    .image_pool{
+        grid-template-columns: 100%;
+      
+        margin-left: 65px;
+    }
+
+    .pool_image{
+        padding-bottom: 80px;
+        width: 250px;
+        
+    }
+
+    .back_button{
+        font-size:1.3em;
+    }
+
+ }

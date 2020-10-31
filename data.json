@@ -1,0 +1,307 @@
+[
+    
+
+    {
+        "information": [
+            {
+                "work_name": "Welcome to Beijing",
+                "year_of_work": "2020",
+                "discipline_of_work": "Poster",
+                "short_intro": "This is a poster designed for Welcome to Beijing Film Festival, 2020.",
+                "long_intro_1": "",
+                "long_intro_2": ""
+            }
+        ],
+       
+        "image": [
+            {
+                "img1": "./img/welcome_to_beijing/welcome_to_beijing.jpg",
+                "img2": "",
+                "img3": "",
+                "img4": "",
+                "img5": "",
+                "img6": "",
+                "img7": "",
+                "img8": "",
+                "img9": "",
+                "img10": ""
+            
+            }
+        ]
+      
+    },
+
+    {
+        "information": [
+            {
+                "work_name": "Death is nothing left",
+                "year_of_work": "2019",
+                "discipline_of_work": "Artist's Book",
+                "short_intro": "A book design based on my experience during my stay in Wenling cemetary, China",
+                "long_intro_1": "Measurements: </br> 70x85cm",
+                "long_intro_2": "Techniques: </br> Risograph printing on Tyvek material"
+            }
+        ],
+       
+        "image": [
+            {
+                "img1": "./img/death_nothing/death_1.jpg",
+                "img2": "./img/death_nothing/death_2.jpg",
+                "img3": "./img/death_nothing/death_3.jpg",
+                "img4": "./img/death_nothing/death_4.jpg",
+                "img5": "./img/death_nothing/death_5.jpg",
+                "img6": "./img/death_nothing/death_6.jpg",
+                "img7": "./img/death_nothing/death_7.jpg",
+                "img8": "./img/death_nothing/death_8.jpg",
+                "img9": "",
+                "img10": ""
+            
+            }
+        ]
+      
+    },
+
+    {
+        "information": [
+            {
+                "work_name": "Neighborh2o2od",
+                "year_of_work": "2020",
+                "discipline_of_work": "Web Architecture",
+                "short_intro": "Web design & development for the online exhibition & curation project: neighborh2o2od.",
+                "long_intro_1": "Visit website: </br><a href=\"//neighborh2o2od.com\" target=\"_blank\"><u>neighborh2o2od.com</u></a>",
+                "long_intro_2": "Graphic Designer: </br> Cai Minhao </br> </br> Front-end Development:</br>  Eager Zhang</br> </br>  Back-end Programmer: </br>Chen Chaoran"
+            }
+        ],
+       
+        "image": [
+            {
+                "img1": "./img/neighborh2o2od/website-1.gif",
+                "img2": "./img/neighborh2o2od/website-2.gif",
+                "img3": "./img/neighborh2o2od/website-3.gif",
+                "img4": "./img/neighborh2o2od/website-4.gif",
+                "img5": "./img/neighborh2o2od/ipad-1.gif",
+                "img6": "./img/neighborh2o2od/cellphone-1.gif",
+                "img7": "",
+                "img8": "",
+                "img9": "",
+                "img10": ""
+            
+            }
+        ]
+      
+    },
+    {
+        "information": [
+            {
+                "work_name": "From the fashionable world to the new communities",
+                "year_of_work": "2019",
+                "discipline_of_work": "visual identity design",
+                "short_intro": "Designed for Tongji University's exhibition booth in WantedDesign 2019, Brooklyn, New York.",
+                "long_intro_1": "Client: </br> Tongji University",
+                "long_intro_2": "Techniques: </br> Digital printing in Pantone Colors"
+            }
+        ],
+       
+        "image": [
+            {
+                "img1": "./img/fashionable_world/fashionable_world_4.png",
+                "img2": "./img/fashionable_world/fashionable_world_3.gif",
+                "img3": "./img/fashionable_world/fashionable_world.png",
+                "img4": "./img/fashionable_world/fashionable_world_5.jpg",
+                "img5": "",
+                "img6": "",
+                "img7": "",
+                "img8": "",
+                "img9": "",
+                "img10": ""
+            
+            }
+        ]
+      
+    },
+
+    
+    {
+        "information": [
+            {
+                "work_name": "GoGive2020",
+                "year_of_work": "2020",
+                "discipline_of_work": "VISUAL IDENTITY DESIGN",
+                "short_intro": "A typographic redesign for the online charitable event: #GoGive2020",
+                "long_intro_1": "Techniques: </br> Digital printing",
+                "long_intro_2": ""
+            }
+        ],
+       
+        "image": [
+            {
+                "img1": "./img/find_love/find_love_1.jpg",
+                "img2": "./img/find_love/find_love_2.jpg",
+                "img3": "./img/find_love/find_love_3.jpg",
+                "img4": "./img/find_love/find_love_4.jpg",
+                "img5": "./img/find_love/find_love_5.jpg",
+                "img6": "./img/find_love/find_love_6.jpg",
+                "img7": "./img/find_love/find_love_7.jpg",
+                "img8": "./img/find_love/find_love_8.jpg",
+                "img9": "./img/find_love/find_love_9.jpg",
+                "img10": ""
+            
+            }
+        ]
+      
+    },
+
+    {
+        "information": [
+            {
+                "work_name": "Spring Rain",
+                "year_of_work": "2020",
+                "discipline_of_work": "Mix media",
+                
+                "short_intro": " An experimental graphic design & interactive sound design work during the pandemic quarantine, 2020",
+                "long_intro_1": "</br><a href=\"//vimeo.com/449754399\" target=\"_blank\"><u>Watch the video</u></a> </br></br>The video is a 6-minute documentation of the 1st volume of my recent interactive music program, Paradise, during the 2020 pandemic. Spring Rain, the working title of this experimental music album, is mimicking to the rain outside my apartment window at midnight. ",
+                "long_intro_2": "The booklet of this music album is a music score sheet that when the audience opens or turns the pages, the camera is detecting the music score and triggering the sound. The soundscape is not a linear one: when the camera \"reads\" the music score to create a real-time interaction, the cyber spring rain, along with numerous noises on the street, come up and fade out in the headphone. "
+            }
+        ],
+       
+        "image": [
+            {
+                "img1": "./img/spring_rain/springrain_1.png",
+                "img2": "./img/spring_rain/springrain_2.jpg",
+                "img3": "./img/spring_rain/springrain_4.jpg",
+                "img4": "./img/spring_rain/springrain_5.jpg",
+                "img5": "./img/spring_rain/springrain_6.jpg",
+                "img6": "./img/spring_rain/springrain_7.jpg",
+                "img7": "./img/spring_rain/springrain_8.jpg",
+                "img8": "./img/spring_rain/springrain_9.jpg",
+                "img9": "./img/spring_rain/springrain_11.jpg",
+                "img10": ""
+            
+            }
+        ]
+      
+    },
+
+   
+
+    {
+        "information": [
+            {
+                "work_name": "Chronicle of a death foretold",
+                "year_of_work": "2019",
+                "discipline_of_work": "book design",
+                "short_intro": "An experimental book design for Gabriel García Márquez's novel.",
+                "long_intro_1": "Measurements: </br>6.9x9.8cm",
+                "long_intro_2": "Techniques:</br>Digital Printing "
+            }
+        ],
+       
+        "image": [
+            {
+                "img1": "./img/chronicle/chronicle_1.png",
+                "img2": "./img/chronicle/chronicle_2.png",
+                "img3": "./img/chronicle/chronicle_3.png",
+                "img4": "./img/chronicle/chronicle_4.png",
+                "img5": "./img/chronicle/chronicle_5.png",
+                "img6": "./img/chronicle/chronicle_6.jpg",
+                "img7": "./img/chronicle/chronicle_7.jpg",
+                "img8": "./img/chronicle/chronicle_8.jpg",
+                "img9": "",
+                "img10": ""
+            
+            }
+        ]
+      
+    },
+
+    {
+        "information": [
+            {
+                "work_name": "Composting!",
+                "year_of_work": "2019",
+                "discipline_of_work": "graphic design",
+                "short_intro": "A creative instruction toolkit design for composting beginners.",
+                "long_intro_1": "Techniques: </br> Digital printing",
+                "long_intro_2": ""
+            }
+        ],
+       
+        "image": [
+            {
+                "img1": "./img/composting/composting_1.png",
+                "img2": "./img/composting/composting_2.png",
+                "img3": "./img/composting/composting_3.jpg",
+                "img4": "./img/composting/composting_4.jpg",
+                "img5": "./img/composting/composting_5.jpg",
+                "img6": "./img/composting/composting_6.png",
+                "img7": "",
+                "img8": "",
+                "img9": "",
+                "img10": ""
+            
+            }
+        ]
+      
+    },
+
+    {
+        "information": [
+            {
+                "work_name": "No Penumbra",
+                "year_of_work": "2018",
+                "discipline_of_work": "Posters",
+                "short_intro": "Poster series for the experimental lighting workshop.",
+                "long_intro_1": "Measurements: </br>70x100cm </br></br> Techniques:</br>Digital Printing",
+                "long_intro_2":  "Photo & Graphic Design: Eager Zhang </br></br>  Photo Assistant: Mockian Fu"
+            }
+        ],
+       
+        "image": [
+            {
+                "img1": "./img/no penumbra/no_penumbra_1.png",
+                "img2": "./img/no penumbra/no_penumbra_2.png",
+                "img3": "./img/no penumbra/no_penumbra_3.png",
+                "img4": "./img/no penumbra/no_penumbra_4.png",
+                "img5": "./img/no penumbra/no_penumbra_5.png",
+                "img6": "",
+                "img7": "",
+                "img8": "",
+                "img9": "",
+                "img10": ""
+            
+            }
+        ]
+      
+    },
+
+    {
+        "information": [
+            {
+                "work_name": "future food",
+                "year_of_work": "2019",
+                "discipline_of_work": "experimental graphic design",
+                "short_intro": "A visual research & installation that focuses on the food issues in the future.",
+                "long_intro_1": "Techniques: </br> Digital printing, </br> Risograph printing,</br> acrylics printing on paper cups",
+                "long_intro_2": "Researchers in the group:  </br> Yao Jiang </br> Cheng Yue </br> Marat Yumashev"
+            }
+        ],
+       
+        "image": [
+            {
+                "img1": "./img/future food/future_food_1.png",
+                "img2": "./img/future food/future_food_2.png",
+                "img3": "./img/future food/future_food_3.png",
+                "img4": "./img/future food/future_food_4.png",
+                "img5": "./img/future food/future_food_5.png",
+                "img6": "./img/future food/future_food_6.png",
+                "img7": "./img/future food/future_food_7.png",
+                "img8": "",
+                "img9": "",
+                "img10": ""
+            
+            }
+        ]
+      
+    }
+
+]
